@@ -253,3 +253,16 @@ Required Python packages were installed from `requirements.txt`.
 **5. Start the HexStrike API Server**
 ```bash
 python3 /home/kali/hexstrike-ai/hexstrike_server.py
+
+
+👤 Author
+
+Name: Kehinde Precious Akinyami
+
+Role: Cybersecurity Student / Intern (Batch B083)
+
+Program: NetworkWalks Cybersecurity Internship
+
+LinkedIn:** https://www.linkedin.com/in/kehinde-precious-akinyami-5015133a2
+
+GitHub: Precious01-tech
