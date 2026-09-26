@@ -251,9 +251,12 @@ A dedicated virtual environment, `hexstrike-env`, was created and activated.
 Required Python packages were installed from `requirements.txt`.
 
 **5. Start the HexStrike API Server**
-```bash
+\`\`\`bash
 python3 /home/kali/hexstrike-ai/hexstrike_server.py
+\`\`\`
+The server started successfully, confirmed by the "HEXSTRIKE" banner and process pool workers initializing.
 
+---
 
 👤 Author
 
